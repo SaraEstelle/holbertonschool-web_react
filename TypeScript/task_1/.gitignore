@@ -1,0 +1,10 @@
+node_modules/
+dist/
+bundle.js
+bundle.js.map
+.cache/
+.DS_Store
+.vscode/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
